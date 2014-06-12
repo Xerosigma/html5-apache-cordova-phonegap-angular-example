@@ -1,4 +1,4 @@
-html5-apache-cordova-phonegap-angular-example
-=============================================
+HTML5 - Apache Cordova / PhoneGap - Angular
+=====================================
 
-HTML5 cross-platform application built on Apache Cordova / Phonegap &amp; Angular.js
+HTML5 cross-platform applicaiton built on Apache Cordova / Phonegap &amp; Angular.js
