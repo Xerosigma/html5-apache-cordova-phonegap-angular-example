@@ -21,7 +21,7 @@ pqMail.controller('MessageListController', function ($scope)
 	$scope.trashedMessages = [];
 	$scope.messages = 
 	[{
-		'subject': 'Interview',
+		'subject': 'Hey!',
 		'avatar': img,
 		'sender': 'Nestor'
 	},
@@ -31,9 +31,9 @@ pqMail.controller('MessageListController', function ($scope)
 		'sender': 'Mark'
 	},
     {
-		'subject': 'Candidate',
+		'subject': 'Angular',
 		'avatar': img,
-		'sender': 'PrettyQuick'
+		'sender': 'Google'
 	}];
 	
 	/**
